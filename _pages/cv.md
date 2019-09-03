@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Georgia Institute of Technology, 2017
+* Ph.D in Computer Science, Princeton University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Amazon Web Services
+  * Software Development Engineer | Feb 2018 – Aug 2018
+  * Worked as a team member of AWS Pinpoint, an AWS product that facilitates digital user engagement by providing highly scalable user targeting, messaging, and analytics services. My work involves end-to-end design, implementation, testing, and maintenance of a cloud-based distributed system that streams, stores, and serves queries against tens of billions of flexible-schema JSON objects every day.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Amazon Web Services
+ * Software Development Intern | May 2017 – Aug 2017
+ * Developing tools that help Linux kernel maintainers in the AWS EC2 Kernel and Operating System team utilize static analysis to address coding style issues, potential concurrency issues, and typing/address space issues, etc.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* QbitLogic 
+  * Data Analytics Engineer | Aug 2016 – Dec 2016
+  * Mining open source projects on GitHub for bug-fixing commits to be used as training data for a novel deep-learning powered bug-fixing system. 
+  * Designing techniques to mine the MUSE dataset and developing automated tests based on NIST Juliet Test Suite to benchmark the company's product on fixing Common Weakness Enumeration (CWE) vulnerabilities.
