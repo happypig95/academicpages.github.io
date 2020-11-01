@@ -11,7 +11,7 @@ title                    : "Shaowei Zhu"
 title_separator          : "-"
 name                     : &name "Shaowei Zhu"
 description              : &description "PhD student at Princeton University"
-url                      : "http://localhost:4000" #"https://www.cs.princeton.edu/~shaoweiz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.cs.princeton.edu/~shaoweiz" # "http://localhost:4000" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "happypig95/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shaowei Zhu"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Princeton University, studying programming languages"
+  bio              : "PhD student at Princeton University, programming languages"
   location         : "Princeton, NJ"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P65o5JwAAAAJ&hl=en"
-  email            : "shaoweiz (at cs.princeton.edu)"
+  email            : "shaoweiz [at] cs.princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
